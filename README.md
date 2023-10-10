@@ -10,3 +10,5 @@ This concise description highlights the essential features of the Daily Planner.
 https://github.com/Kevinatics/Calendar-Web
 
 ## Photo
+![Alt text](<Screenshot 2023-10-09 at 10.24.51 PM.png>)
+![Alt text](<Screenshot 2023-10-09 at 10.26.05 PM.png>)

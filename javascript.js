@@ -1,7 +1,7 @@
 $(function () {
     var currentHour = dayjs().hour();
     $('#currentDay').text(dayjs().format('MMMM D, YYYY'));
-    
+   
 
     $('.saveBtn').on('click', function(){
         var timeBlock = $(this).closest('.time-block');
